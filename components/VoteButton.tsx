@@ -1,0 +1,1 @@
+export default function VoteButton(){return <button>👍 Głosuj</button>}

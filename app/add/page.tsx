@@ -1,0 +1,1 @@
+export default function AddPage() { return <h1>Dodaj profil</h1>; }

@@ -1,0 +1,1 @@
+CREATE TABLE profiles(id serial primary key, username text unique, votes int default 0);
