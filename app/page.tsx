@@ -1,1 +1,3 @@
-export default function Home() { return <h1>🏆 Top TikTok Polska</h1>; }
+export default function Home() {
+  return <h1>Tiktok Ranking 123</h1>;
+}
